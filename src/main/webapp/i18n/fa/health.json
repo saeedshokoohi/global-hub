@@ -1,0 +1,35 @@
+{
+  "health": {
+    "title": "چک سلامتی",
+    "refresh.button": "تازه کردن",
+    "stacktrace": "وقایع برای عیب یابی",
+    "details": {
+      "details": "جزییات",
+      "properties": "خواص",
+      "name": "نام",
+      "value": "مقدار",
+      "error": "خطا"
+    },
+    "indicator": {
+      "binders": "Message broker",
+      "discoveryComposite": "Discovery Composite",
+      "refreshScope": "Microservice Refresh Scope",
+      "clientConfigServer": "Microservice Config Server",
+      "hystrix": "Hystrix",
+      "diskSpace": "Disk space",
+      "mail": "Email",
+      "ping": "Application",
+      "elasticsearch": "Elasticsearch",
+      "mongo": "MongoDB"
+    },
+    "table": {
+      "service": "نام سرویس",
+      "status": "وضعیت"
+    },
+    "status": {
+      "UNKNOWN": "UNKNOWN",
+      "UP": "UP",
+      "DOWN": "DOWN"
+    }
+  }
+}
